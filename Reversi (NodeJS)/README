@@ -1,0 +1,7 @@
+	PARTS NOT DONE OR ARE DIFFERENTLY IMPLEMENTED:
+
+1) I implemented thr game rooms by .join(room) functions
+2) the turn and symbol are sent from server to the client
+3) the turn and symbol assigned to clients are console.log in console.
+4) Other things are implemented as per said.
+5) I didn't implement the condition where the invalid moves are left and   box is not complete. Winning condition is only when box is filled.
